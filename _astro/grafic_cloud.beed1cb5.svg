@@ -1,0 +1,53 @@
+<svg
+  viewBox="0 0 254 254"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  color="#1C3457"
+>
+  <circle cx="76.1334" cy="58.8456" r="10.3063" fill="currentColor"></circle>
+  <circle cx="125.338" cy="119.353" r="10.3063" fill="currentColor"></circle>
+  <circle cx="64.1647" cy="202.469" r="10.3063" fill="currentColor"></circle>
+  <circle cx="175.872" cy="195.819" r="10.3063" fill="currentColor"></circle>
+  <circle cx="151.934" cy="221.751" r="10.3063" fill="currentColor"></circle>
+  <circle cx="92.0913" cy="9.64133" r="5.65183" fill="currentColor"></circle>
+  <circle cx="153.929" cy="7.64671" r="5.65183" fill="currentColor"></circle>
+  <circle cx="191.165" cy="92.7565" r="6.31675" fill="currentColor"></circle>
+  <circle cx="61.5052" cy="139.966" r="6.31675" fill="currentColor"></circle>
+  <circle cx="14.6281" cy="87.7697" r="4.65445" fill="currentColor"></circle>
+  <circle cx="30.2544" cy="52.1963" r="5.65183" fill="currentColor"></circle>
+  <circle cx="213.107" cy="43.5523" r="4.98691" fill="currentColor"></circle>
+  <circle cx="138.636" cy="44.8822" r="4.98691" fill="currentColor"></circle>
+  <circle cx="179.861" cy="149.94" r="4.98691" fill="currentColor"></circle>
+  <circle cx="225.076" cy="205.793" r="4.98691" fill="currentColor"></circle>
+  <circle cx="110.045" cy="248.348" r="4.98691" fill="currentColor"></circle>
+  <circle cx="165.233" cy="245.689" r="4.98691" fill="currentColor"></circle>
+  <circle cx="82.7828" cy="237.045" r="4.98691" fill="currentColor"></circle>
+  <circle cx="34.2437" cy="203.798" r="4.98691" fill="currentColor"></circle>
+  <circle cx="10.3062" cy="167.228" r="4.98691" fill="currentColor"></circle>
+  <circle
+    cx="10.3063"
+    cy="167.228"
+    r="9.00628"
+    stroke="currentColor"
+    stroke-width="2.6"></circle>
+  <circle
+    cx="240.369"
+    cy="81.4529"
+    r="8.34136"
+    stroke="currentColor"
+    stroke-width="2.6"></circle>
+  <circle
+    cx="122.678"
+    cy="9.64136"
+    r="8.34136"
+    stroke="currentColor"
+    stroke-width="2.6"></circle>
+  <circle cx="134.647" cy="183.851" r="5.65183" fill="currentColor"></circle>
+  <circle cx="249.013" cy="144.62" r="4.98691" fill="currentColor"></circle>
+  <circle cx="240.369" cy="81.453" r="4.98691" fill="currentColor"></circle>
+  <circle cx="122.678" cy="9.64145" r="4.98691" fill="currentColor"></circle>
+  <path
+    d="M92.0918 10.3062L30.5866 52.1962M92.0918 10.3062L123.343 8.97633M92.0918 10.3062L76.4662 59.1779M30.5866 52.1962L14.6285 87.7695M30.5866 52.1962L76.4662 59.1779M14.6285 87.7695L6.64941 130.657L10.3065 167.56M14.6285 87.7695L61.5054 140.631M14.6285 87.7695L76.4662 59.1779M10.3065 167.56L34.2437 203.466M10.3065 167.56L61.5054 140.631M34.2437 203.466L59.5107 227.735L82.7829 237.377M34.2437 203.466H64.83M82.7829 237.377L110.377 248.681M82.7829 237.377L64.83 203.466M110.377 248.681L165.233 245.688L225.076 206.458M110.377 248.681L134.647 184.516M225.076 206.458L249.013 144.62M225.076 206.458L151.602 222.416L64.83 203.466M225.076 206.458L179.861 149.94M225.076 206.458L175.872 196.152M249.013 144.62L240.702 81.7852M249.013 144.62L191.165 92.7564M249.013 144.62L179.861 149.94M240.702 81.7852L213.772 43.5522M240.702 81.7852L191.165 92.7564M213.772 43.5522L154.594 7.64648M213.772 43.5522L139.301 45.2145M213.772 43.5522L191.165 92.7564M154.594 7.64648L139.301 45.2145M154.594 7.64648L123.343 8.97633M76.4662 59.1779L139.301 45.2145M76.4662 59.1779L61.5054 140.631M76.4662 59.1779L125.338 119.686M139.301 45.2145L125.338 119.686M139.301 45.2145L123.343 8.97633M139.301 45.2145L191.165 92.7564M61.5054 140.631L64.83 203.466M61.5054 140.631L134.647 184.516M61.5054 140.631L125.338 119.686M134.647 184.516L125.338 119.686M134.647 184.516L179.861 149.94M134.647 184.516L175.872 196.152M125.338 119.686L191.165 92.7564M125.338 119.686L179.861 149.94M191.165 92.7564L179.861 149.94M179.861 149.94L175.872 196.152"
+    stroke="currentColor"
+    stroke-width="2.6"></path>
+</svg>
